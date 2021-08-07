@@ -1,1 +1,5 @@
-h1{ color: crimson;}
+h1, p { color: crimson;
+}
+.hola{
+    color: green;
+}
