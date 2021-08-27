@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 body{
     background-color:peachpuff;
     background-size: cover;
@@ -14,6 +15,9 @@ p{
 
 
 h1 { color: crimson;
+=======
+h1, p,h2 { color: crimson;
+>>>>>>> c0195ad2f412e997e883f93988204bfa7c16492d
 }
 .hola{
     color: green;
