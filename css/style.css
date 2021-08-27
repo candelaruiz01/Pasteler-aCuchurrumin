@@ -42,3 +42,16 @@ h1 { color: crimson;
     background: #45bbff;
     color: white;
     }
+
+    #footer{
+        max-width: 1000px;
+        background-color: rgb(202, 106, 106);
+        margin: auto;
+        border-radius: 0 0 20px;
+        color:black;
+        text-align: center;
+        padding: 30px;
+        box-sizing: border-box;
+        font-family: Arial;
+        font-size: 18px;
+    }

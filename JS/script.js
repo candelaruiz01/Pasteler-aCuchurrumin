@@ -1,0 +1,1 @@
+alert("Pulse aceptar para ingresar a la pagina de Pasteleria Cuchurrumin");
