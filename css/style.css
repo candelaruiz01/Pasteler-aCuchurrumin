@@ -1,5 +1,5 @@
 body{
-    background-color:peachpuff;
+    background-color:lightslategray;
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center center;
@@ -55,4 +55,8 @@ h1 { color: crimson;
         font-family: Arial;
         font-size: 18px;
     }
+    iframe{
+        text-align: center;
+    }
+   
    
